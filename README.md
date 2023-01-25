@@ -1,1 +1,1 @@
-"# sparta-typescript-practice" 
+# sparta-typescript-practice
